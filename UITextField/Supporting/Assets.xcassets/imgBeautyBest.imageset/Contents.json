@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "imgBeautyBest.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
